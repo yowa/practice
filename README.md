@@ -1,3 +1,3 @@
 practice
 ========
-git と github の練習をするのです。ね？
+git と github の練習をするのです。
